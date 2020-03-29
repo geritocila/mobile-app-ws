@@ -13,6 +13,7 @@ import com.appsdeveloperblog.app.ws.security.AppProperties;
 public class MobileAppWsApplication extends SpringBootServletInitializer {
 
 	//hello from local repo
+        //hello from remote repo
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
