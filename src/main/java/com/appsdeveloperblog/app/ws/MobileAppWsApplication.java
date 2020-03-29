@@ -12,6 +12,8 @@ import com.appsdeveloperblog.app.ws.security.AppProperties;
 @SpringBootApplication
 public class MobileAppWsApplication extends SpringBootServletInitializer {
 
+	//hello from local repo
+
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(MobileAppWsApplication.class);
